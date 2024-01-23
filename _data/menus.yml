@@ -1,0 +1,23 @@
+- title: Inicio
+  url: /
+  external: false
+
+- title: Matemáticas
+  url: /matematicas/
+  external: false
+
+- title: Pensamientos
+  url: /pensamientos/
+  external: false
+
+- title: Escritos
+  url: /escritos/
+  external: false
+
+- title: Proyectos
+  url: /proyectos/
+  external: false
+# Example:
+# - title: github
+#   url: https://github.com/piharpi/jekyll-klise
+#   external: true
