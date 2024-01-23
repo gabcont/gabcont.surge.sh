@@ -1,14 +1,22 @@
-- title: home
+- title: Inicio
   url: /
   external: false
 
-- title: archive
-  url: /archive/
+- title: Matemáticas
+  url: /matematicas/
   external: false
 
-- title: about
-  url: /about/
-  external: false # set true if you using external link, see below
+- title: Pensamientos
+  url: /pensamientos/
+  external: false
+
+- title: Escritos
+  url: /escritos/
+  external: false
+
+  - title: Proyectos
+  url: /proyectos/
+  external: false
 
 # Example:
 # - title: github
